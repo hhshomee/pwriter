@@ -1,0 +1,34 @@
+
+====== Fine-tuned Classification Report for Abstract ======
+Accuracy: 0.5249
+
+Per-class metrics:
+G06F        Precision: 0.5561  Recall: 0.3728  F1-score: 0.4464  Support: 279
+G06K        Precision: 0.6627  Recall: 0.7500  F1-score: 0.7036  Support: 220
+G06N        Precision: 0.4656  Recall: 0.5768  F1-score: 0.5152  Support: 293
+G06Q        Precision: 0.5298  Recall: 0.5432  F1-score: 0.5364  Support: 278
+G06T        Precision: 0.5737  Recall: 0.4948  F1-score: 0.5314  Support: 291
+G06V        Precision: 0.4281  Recall: 0.4643  F1-score: 0.4455  Support: 308
+
+Total (averaged) metrics:
+Macro Avg     Precision: 0.5360  Recall: 0.5336  F1-score: 0.5297
+Weighted Avg  Precision: 0.5293  Recall: 0.5249  F1-score: 0.5220
+Micro Accuracy: 0.5249
+
+
+====== Fine-tuned Classification Report for GenAbs ======
+Accuracy: 0.5506
+
+Per-class metrics:
+G06F        Precision: 0.5584  Recall: 0.3943  F1-score: 0.4622  Support: 279
+G06K        Precision: 0.7309  Recall: 0.7409  F1-score: 0.7359  Support: 220
+G06N        Precision: 0.4905  Recall: 0.6143  F1-score: 0.5455  Support: 293
+G06Q        Precision: 0.5474  Recall: 0.5396  F1-score: 0.5435  Support: 278
+G06T        Precision: 0.5730  Recall: 0.5533  F1-score: 0.5629  Support: 291
+G06V        Precision: 0.4740  Recall: 0.5032  F1-score: 0.4882  Support: 308
+
+Total (averaged) metrics:
+Macro Avg     Precision: 0.5624  Recall: 0.5576  F1-score: 0.5564
+Weighted Avg  Precision: 0.5544  Recall: 0.5506  F1-score: 0.5488
+Micro Accuracy: 0.5506
+

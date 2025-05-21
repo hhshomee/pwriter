@@ -1,0 +1,38 @@
+
+====== Fine-tuned Classification Report for Abstract ======
+Accuracy: 0.5636
+
+Per-class metrics:
+A61B        Precision: 0.5445  Recall: 0.4047  F1-score: 0.4643  Support: 257
+A61F        Precision: 0.5594  Recall: 0.4556  F1-score: 0.5022  Support: 248
+A61K        Precision: 0.3293  Recall: 0.0811  F1-score: 0.1301  Support: 333
+A61L        Precision: 0.6016  Recall: 0.6537  F1-score: 0.6266  Support: 231
+A61M        Precision: 0.5352  Recall: 0.5938  F1-score: 0.5630  Support: 256
+A61N        Precision: 0.5685  Recall: 0.7155  F1-score: 0.6336  Support: 232
+A61P        Precision: 0.5010  Recall: 0.8135  F1-score: 0.6201  Support: 311
+A61Q        Precision: 0.7147  Recall: 0.8671  F1-score: 0.7836  Support: 286
+
+Total (averaged) metrics:
+Macro Avg     Precision: 0.5443  Recall: 0.5731  F1-score: 0.5404
+Weighted Avg  Precision: 0.5369  Recall: 0.5636  F1-score: 0.5292
+Micro Accuracy: 0.5636
+
+
+====== Fine-tuned Classification Report for GenAbs ======
+Accuracy: 0.5706
+
+Per-class metrics:
+A61B        Precision: 0.5200  Recall: 0.4553  F1-score: 0.4855  Support: 257
+A61F        Precision: 0.5959  Recall: 0.4637  F1-score: 0.5215  Support: 248
+A61K        Precision: 0.3824  Recall: 0.1171  F1-score: 0.1793  Support: 333
+A61L        Precision: 0.6077  Recall: 0.6840  F1-score: 0.6436  Support: 231
+A61M        Precision: 0.5694  Recall: 0.6250  F1-score: 0.5959  Support: 256
+A61N        Precision: 0.6021  Recall: 0.7371  F1-score: 0.6628  Support: 232
+A61P        Precision: 0.4949  Recall: 0.7846  F1-score: 0.6070  Support: 311
+A61Q        Precision: 0.7120  Recall: 0.7867  F1-score: 0.7475  Support: 286
+
+Total (averaged) metrics:
+Macro Avg     Precision: 0.5605  Recall: 0.5817  F1-score: 0.5554
+Weighted Avg  Precision: 0.5534  Recall: 0.5706  F1-score: 0.5438
+Micro Accuracy: 0.5706
+

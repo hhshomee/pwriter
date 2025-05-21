@@ -1,0 +1,9 @@
+bert-score
+rouge-score 
+nltk 
+scikit-learn 
+pandas
+rouge
+sentence-transformers
+nlpaug 
+sympy 

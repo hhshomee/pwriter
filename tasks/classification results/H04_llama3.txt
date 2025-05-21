@@ -1,0 +1,36 @@
+
+====== Fine-tuned Classification Report for Abstract ======
+Accuracy: 0.5786
+
+Per-class metrics:
+H04B        Precision: 0.4977  Recall: 0.3978  F1-score: 0.4421  Support: 269
+H04J        Precision: 0.5015  Recall: 0.7389  F1-score: 0.5975  Support: 226
+H04L        Precision: 0.5363  Recall: 0.4650  F1-score: 0.4981  Support: 286
+H04M        Precision: 0.5720  Recall: 0.6318  F1-score: 0.6004  Support: 239
+H04N        Precision: 0.7432  Recall: 0.7604  F1-score: 0.7517  Support: 217
+H04R        Precision: 0.7722  Recall: 0.8551  F1-score: 0.8115  Support: 214
+H04W        Precision: 0.4641  Recall: 0.3607  F1-score: 0.4059  Support: 305
+
+Total (averaged) metrics:
+Macro Avg     Precision: 0.5839  Recall: 0.6014  F1-score: 0.5868
+Weighted Avg  Precision: 0.5725  Recall: 0.5786  F1-score: 0.5698
+Micro Accuracy: 0.5786
+
+
+====== Fine-tuned Classification Report for GenAbs ======
+Accuracy: 0.5809
+
+Per-class metrics:
+H04B        Precision: 0.4733  Recall: 0.4275  F1-score: 0.4492  Support: 269
+H04J        Precision: 0.5031  Recall: 0.7124  F1-score: 0.5897  Support: 226
+H04L        Precision: 0.5294  Recall: 0.4091  F1-score: 0.4615  Support: 286
+H04M        Precision: 0.5703  Recall: 0.6109  F1-score: 0.5899  Support: 239
+H04N        Precision: 0.7788  Recall: 0.8111  F1-score: 0.7946  Support: 217
+H04R        Precision: 0.7946  Recall: 0.8318  F1-score: 0.8128  Support: 214
+H04W        Precision: 0.4774  Recall: 0.4164  F1-score: 0.4448  Support: 305
+
+Total (averaged) metrics:
+Macro Avg     Precision: 0.5896  Recall: 0.6027  F1-score: 0.5918
+Weighted Avg  Precision: 0.5771  Recall: 0.5809  F1-score: 0.5747
+Micro Accuracy: 0.5809
+
